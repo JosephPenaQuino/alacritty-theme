@@ -1,3 +1,8 @@
+# This repository is no longer maintained. Please visit the updated repository [here](https://github.com/alacritty/alacritty-theme)
+# https://github.com/alacritty/alacritty-theme
+
+&nbsp;
+
 # Alacritty Theme
 
 [![license](https://img.shields.io/github/license/eendroroy/alacritty-theme.svg)](https://github.com/eendroroy/alacritty-theme/blob/master/LICENSE)
@@ -46,6 +51,7 @@ There are multiple ways -
 |                                              **_breeze_**<br>[source](https://github.com/KDE/breeze)                                              |                ![breeze](images/breeze.png)                |
 |              **_campbell_**<br>[source](https://blogs.msdn.microsoft.com/commandline/2017/08/02/updating-the-windows-console-colors)              |              ![campbell](images/campbell.png)              |
 |                               **_challenger_deep_**<br>[source](https://github.com/challenger-deep-theme/alacritty)                               |       ![challenger_deep](images/challenger_deep.png)       |
+|                                              **_city_lights_**<br>[source](https://citylights.xyz/)                                               |           ![city_lights](images/citylights.png)            |
 |                                 **_Cobalt2_**<br>[source](https://github.com/wesbos/cobalt2/tree/master/Cobalt2)                                  |               ![Cobalt2](images/Cobalt2.png)               |
 |                                 **_cyber_punk_neon_**<br>[source](https://github.com/Roboron3042/Cyberpunk-Neon)                                  |       ![cyber_punk_neon](images/cyber_punk_neon.png)       |
 |                                                **_darcula_**<br>[source](https://draculatheme.com)                                                |               ![darcula](images/darcula.png)               |
@@ -55,6 +61,7 @@ There are multiple ways -
 |                                           **_falcon_**<br>[source](https://github.com/fenetikm/falcon)                                            |                ![falcon](images/falcon.png)                |
 |                          **_flat_remix_**<br>[source](https://github.com/Mayccoll/Gogh/blob/master/themes/flat-remix.sh)                          |            ![flat_remix](images/flat_remix.png)            |
 |                                                                   **_gotham_**                                                                    |                ![falcon](images/gotham.png)                |
+|                                  **_gnome_terminal_**<br>[source](https://gitlab.gnome.org/GNOME/gnome-terminal)                                  |        ![gnome_terminal](images/gnome_terminal.png)        |
 |                                        **_gruvbox_dark_**<br>[source](https://github.com/morhetz/gruvbox)                                         |          ![gruvbox_dark](images/gruvbox_dark.png)          |
 |                                        **_gruvbox_light_**<br>[source](https://github.com/morhetz/gruvbox)                                        |         ![gruvbox_light](images/gruvbox_light.png)         |
 |                                  **_gruvbox_material_**<br>[source](https://github.com/sainnhe/gruvbox-material)                                  |      ![gruvbox_material](images/gruvbox_material.png)      |
@@ -66,6 +73,7 @@ There are multiple ways -
 |                                                                **_low_contrast_**                                                                 |             ![iterm](images/low_contrast.png)              |
 |                                  **_material_theme_**<br>[source](https://github.com/equinusocio/material-theme)                                  |        ![material_theme](images/material_theme.png)        |
 |                                                             **_material_theme_mod_**                                                              |    ![material_theme_mod](images/material_theme_mod.png)    |
+| **_monokai_charcoal_**<br>[source](https://github.com/dodeca12/Monokai-Charcoal-Theme-for-Alacritty/blob/main/monokai_charcoal_white.yaml) | ![monokai_charcoal](images/monokai-charcoal.png) |
 |                      **_monokai_pro_**<br>[source](https://gist.github.com/AlphaTechnolog/d1d5f6557f77f71519cb5713268da7dd)                       |           ![monokai_pro](images/monokai_pro.png)           |
 |                             **_moonlight_ii_vscode_**<br>[source](https://github.com/atomiks/moonlight-vscode-theme)                              |   ![moonlight_ii_vscode](images/moonlight_ii_vscode.png)   |
 |                                                             **_night_owlish_light_**                                                              |    ![night_owlish_light](images/night_owlish_light.png)    |
@@ -80,6 +88,7 @@ There are multiple ways -
 |                                   **_pencil_dark_**<br>[source](https://github.com/mattly/iterm-colors-pencil)                                    |           ![pencil_dark](images/pencil_dark.png)           |
 |                                   **_pencil_light_**<br>[source](https://github.com/mattly/iterm-colors-pencil)                                   |          ![pencil_light](images/pencil_light.png)          |
 |                                  **_remedy_dark_**<br>[source](https://github.com/robertrossmann/vscode-remedy)                                   |           ![remedy_dark](images/remedy_dark.png)           |
+|                                        **_rose-pine_**<br>[source](https://github.com/rose-pine/alacritty)                                        |             ![rose-pine](images/rose-pine.png)             |
 |                                      **_snazzy_**<br>[source](https://github.com/sindresorhus/hyper-snazzy)                                       |                ![snazzy](images/snazzy.png)                |
 |         **seashells**<br>[source](https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/schemes/SeaShells.itermcolors)          |             ![seashells](images/seashells.png)             |
 | **smoooooth**<br>[source](https://github.com/gnachman/iTerm2/blob/33945e63ad48ed80d6cc1adf7cbeb663217652d2/plists/ColorPresets.plist#L4345-L4685) |             ![smoooooth](images/smoooooth.png)             |
@@ -94,9 +103,10 @@ There are multiple ways -
 |                          **_tokyo-night-storm_**<br>[source](https://github.com/zatchheems/tokyo-night-alacritty-theme)                           |     ![tokyo-night-storm](images/tokyo-night-storm.png)     |
 |                                 **_tomorrow_night_**<br>[source](https://github.com/ChrisKempson/Tomorrow-Theme)                                  |        ![tomorrow_night](images/tomorrow_night.png)        |
 |                              **_tomorrow_night_bright_**<br>[source](https://github.com/ChrisKempson/Tomorrow-Theme)                              | ![tomorrow_night_bright](images/tomorrow_night_bright.png) |
+|                                      **_ubuntu_**<br>[source](https://design.ubuntu.com/brand/colour-palette/)                                    |                ![ubuntu](images/ubuntu.png)                |
 |                                        **_wombat_**<br>[source](https://github.com/djoyner/iTerm2-wombat)                                         |                ![wombat](images/wombat.png)                |
 |                                                                    **_xterm_**                                                                    |                 ![xterm](images/xterm.png)                 |
-
+|                                          **_zenburm_**<br>[source](https://github.com/jnurmine/Zenburn)                                           |               ![zenburm](images/zenburm.png)               |
 
 ## Contributing
 
@@ -109,6 +119,14 @@ adhere to the [Contributor Covenant](http://contributor-covenant.org) code of co
   3. Commit your changes (`git commit -am 'Add some feature'`)
   4. Push to the branch (`git push origin my-new-feature`)
   5. Create a new Pull Request
+  
+  Suggestions:
+  
+  - Ensure `{theme}.yaml` file in `theme` directory
+  - Ensure theme preview (ie: `{theme}.png`) in `images` directory
+  - Use [print_colors](https://raw.githubusercontent.com/eendroroy/bin_scripts/master/public/print_colors) script to generate preview
+  - Ensure `schemes.yaml` file is updated
+  - Ensure theme listing in `README.md` following alphabetical ordering
 
 ## Author
 
